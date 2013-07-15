@@ -1,6 +1,6 @@
 ---
-layout: new
-title: Index Page
+layout: other
+title: Test Index Page
 ---
 
 test
