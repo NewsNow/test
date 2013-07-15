@@ -1,6 +1,6 @@
 ---
-title: Index Page
 layout: new
+title: Index Page
 ---
 
 test
