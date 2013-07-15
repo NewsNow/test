@@ -1,9 +1,3 @@
----
-layout: new
-title: Testing 123
-tags: without-plugins
----
-
 test
 ====
 
