@@ -11,7 +11,17 @@
     <title>Test</title>
   </head>
 
-  <body>
+  <body id="{{ page.tags }}">
+  <section id="content">
+    <header>
+      <h1><a href="#">{{ page.title }}</a></h1>
+    </header>
+    <article>
+      {{ content }}
+    </article>
+    <footer>
+    </footer>
+  </section>
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
