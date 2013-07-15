@@ -1,5 +1,6 @@
 ---
 title: Index Page
+layout: new
 ---
 
 test
